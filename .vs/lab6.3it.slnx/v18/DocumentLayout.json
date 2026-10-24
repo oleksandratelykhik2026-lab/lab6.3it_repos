@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Student\\lab6.3it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C62FC2-9DB9-0029-CF9F-9D999CF94523}|UnitTest6.3it\\UnitTest6.3it.vcxproj|D:\\Student\\lab6.3it\\UnitTest6.3it\\UnitTest6.3it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69C62FC2-9DB9-0029-CF9F-9D999CF94523}|UnitTest6.3it\\UnitTest6.3it.vcxproj|solutionrelative:UnitTest6.3it\\UnitTest6.3it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C666DB3A-2696-4FA7-89EA-C0A30F914C69}|lab6.3it\\lab6.3it.vcxproj|D:\\Student\\lab6.3it\\lab6.3it\\lab6.3it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C666DB3A-2696-4FA7-89EA-C0A30F914C69}|lab6.3it\\lab6.3it.vcxproj|solutionrelative:lab6.3it\\lab6.3it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest6.3it.cpp",
+              "DocumentMoniker": "D:\\Student\\lab6.3it\\UnitTest6.3it\\UnitTest6.3it.cpp",
+              "RelativeDocumentMoniker": "UnitTest6.3it\\UnitTest6.3it.cpp",
+              "ToolTip": "D:\\Student\\lab6.3it\\UnitTest6.3it\\UnitTest6.3it.cpp",
+              "RelativeToolTip": "UnitTest6.3it\\UnitTest6.3it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T17:18:46.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab6.3it.cpp",
+              "DocumentMoniker": "D:\\Student\\lab6.3it\\lab6.3it\\lab6.3it.cpp",
+              "RelativeDocumentMoniker": "lab6.3it\\lab6.3it.cpp",
+              "ToolTip": "D:\\Student\\lab6.3it\\lab6.3it\\lab6.3it.cpp",
+              "RelativeToolTip": "lab6.3it\\lab6.3it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T17:13:23.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
